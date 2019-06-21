@@ -1,0 +1,10 @@
+C:\Users\robert\Desktop\ConsoleApp3\Common.Library\bin\Debug\Common.Library.dll
+C:\Users\robert\Desktop\ConsoleApp3\Common.Library\bin\Debug\Common.Library.pdb
+C:\Users\robert\Desktop\ConsoleApp3\Common.Library\bin\Debug\Common.Library.xml
+C:\Users\robert\Desktop\ConsoleApp3\Common.Library\obj\Debug\Common.Library.vbprojAssemblyReference.cache
+C:\Users\robert\Desktop\ConsoleApp3\Common.Library\obj\Debug\Common.Library.Resources.resources
+C:\Users\robert\Desktop\ConsoleApp3\Common.Library\obj\Debug\Common.Library.vbproj.GenerateResource.cache
+C:\Users\robert\Desktop\ConsoleApp3\Common.Library\obj\Debug\Common.Library.vbproj.CoreCompileInputs.cache
+C:\Users\robert\Desktop\ConsoleApp3\Common.Library\obj\Debug\Common.Library.dll
+C:\Users\robert\Desktop\ConsoleApp3\Common.Library\obj\Debug\Common.Library.xml
+C:\Users\robert\Desktop\ConsoleApp3\Common.Library\obj\Debug\Common.Library.pdb
